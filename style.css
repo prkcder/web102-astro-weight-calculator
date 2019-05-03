@@ -1,0 +1,15 @@
+html{
+background: url('https://www.nasa.gov/sites/default/files/thumbnails/image/image1_-_stsci-h-p1835a-m-2000x1768.png');
+background-size: cover;
+}
+
+
+h1 {
+    text-align: center;
+    color:white;
+}
+
+
+p{
+    color:white;
+}
